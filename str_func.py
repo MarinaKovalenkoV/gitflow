@@ -1,5 +1,5 @@
 def uppercase():
-    ###функция увеличивает все буквы во всех словах###
+    ###функция увеличивает все буквы###
     line = input()
     string_line = line.upper()
     return string_line
